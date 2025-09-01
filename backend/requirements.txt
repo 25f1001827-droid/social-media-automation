@@ -1,0 +1,7 @@
+# backend/requirements.txt
+# Python dependencies for backend service
+# Add Python packages here
+fastapi==0.68.0
+uvicorn==0.15.0
+pydantic==1.8.2
+# Add more dependencies as needed
